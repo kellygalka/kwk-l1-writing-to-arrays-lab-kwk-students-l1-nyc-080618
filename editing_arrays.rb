@@ -13,7 +13,7 @@ retun rainbow_colors
 end
 
 def add_colors
-  
+  rainbow_colors
   # Write a solution that adds "green", then "blue" to the rainbow_colors array, then returns the array
 end
 # In the file `editing_arrays.rb`, write a solution for the method
